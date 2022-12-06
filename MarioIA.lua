@@ -1,4 +1,4 @@
--- MARIO IA par LAUPOK
+-- MARIO IA par LAUPOK edit par Maxime Tournier
 -- script à utiliser avec l'emu bizhawk et une rom USA de Super Mario World récupéré totalement légalement 
 
 
